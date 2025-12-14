@@ -116,10 +116,13 @@ The framework is **non-intrusive**, requires **no modification to the target Lam
 ![Run Pipeline](screenshots/run_pipeline.png)
 
 ### 3. Observe Results
-- No anomaly detected  
-- Evidence bundle generated  
-
-![Normal Evidence Output](screenshots/normal_output.png)
+- No anomaly detected
+![Normal Evidence Output](screenshots/normal_output.png)  
+- Evidence bundle generated
+![Normal Evidence Output](screenshots/evidence_bundle_normal_1) 
+![Normal Evidence Output](screenshots/evidence_bundle_normal_2) 
+![Normal Evidence Output](screenshots/evidence_bundle_normal_3)
+![Normal Evidence Output](screenshots/evidence_bundle_normal_4) 
 
 ---
 
