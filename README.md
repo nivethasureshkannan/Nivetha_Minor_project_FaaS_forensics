@@ -34,6 +34,7 @@ The framework is **non-intrusive**, requires **no modification to the target Lam
 ---
 
 ## System Architecture (High-Level Pipeline)
+![system architecture_diagram](screenshots/system_architecture_diagram.png)
 
 ### 1. Lambda Function Execution
 - Target Lambda functions (normal and anomalous) are invoked.
