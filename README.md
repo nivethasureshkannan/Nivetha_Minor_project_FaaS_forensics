@@ -119,10 +119,13 @@ The framework is **non-intrusive**, requires **no modification to the target Lam
 - No anomaly detected
 ![Normal Evidence Output](screenshots/normal_output.png)  
 - Evidence bundle generated
-![Normal Evidence Output](screenshots/evidence_bundle_normal_1) 
-![Normal Evidence Output](screenshots/evidence_bundle_normal_2) 
-![Normal Evidence Output](screenshots/evidence_bundle_normal_3)
-![Normal Evidence Output](screenshots/evidence_bundle_normal_4) 
+![Normal Evidence Output](screenshots/evidence_bundle_normal_1.png) 
+
+![Normal Evidence Output](screenshots/evidence_bundle_normal_2.png) 
+
+![Normal Evidence Output](screenshots/evidence_bundle_normal_3.png)
+
+![Normal Evidence Output](screenshots/evidence_bundle_normal_4.png) 
 
 ---
 
@@ -130,13 +133,17 @@ The framework is **non-intrusive**, requires **no modification to the target Lam
 ![Invoke Anomalous Lambda](screenshots/invoke_anomalous.png)
 
 ### 5. Run the Forensic Pipeline Again
-![Run Pipeline Again](screenshots/run_pipeline_again.png)
+![Run Pipeline Again](screenshots/run_pipeline_again_1.png)
+![Run Pipeline Again](screenshots/run_pipeline_again_2.png)
 
 ### 6. Observe Results
-- Anomaly detected  
-- Updated evidence bundle with dynamic case summary  
-
-![Anomalous Evidence Output](screenshots/anomalous_output.png)
+- Anomaly detected
+![Anomalous Evidence Output](screenshots/anomalous_output.png) 
+- Updated evidence bundle with dynamic case summary
+![Anomalous Evidence Output](screenshots/evidence_bundle_anomalous_1.png)
+![Anomalous Evidence Output](screenshots/evidence_bundle_anomalous_2.png) 
+![Anomalous Evidence Output](screenshots/evidence_bundle_anomalous_3.png) 
+![Anomalous Evidence Output](screenshots/evidence_bundle_anomalous_4.png) 
 
 ---
 
